@@ -1,5 +1,7 @@
 # Full-Stack Web Application with AWS Amplify
 
+A full-stack web application built with AWS Amplify integrates front-end and back-end services, including authentication, APIs, and databases. Amplify simplifies deploying and managing the app with features like hosting, serverless functions, and data storage. This solution provides scalability, security, and seamless integration with other AWS services.
+
 ## Overview
 
 In this tutorial, you will learn how to create a simple full-stack web application using AWS Amplify.
