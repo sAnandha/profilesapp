@@ -1,6 +1,13 @@
-# Full-Stack Web Application with AWS Amplify
+# Full-Stack Web Application with AWS Amplify:
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4eca10cd-e7c1-4446-8eea-18e8607f5ba3" alt="Serverless Web Build" style="width: 100%; height: auto;">
+</div>
 
-A full-stack web application built with AWS Amplify integrates front-end and back-end services, including authentication, APIs, and databases. Amplify simplifies deploying and managing the app with features like hosting, serverless functions, and data storage. This solution provides scalability, security, and seamless integration with other AWS services.
+
+
+   A full-stack web application built with AWS Amplify integrates front-end and back-end services, including authentication,
+ APIs, and databases. Amplify simplifies deploying and managing the app with features like hosting, serverless functions, 
+ and data storage. This solution provides scalability, security, and seamless integration with other AWS services.
 
 ## Overview
 
@@ -51,8 +58,6 @@ Before starting this tutorial, ensure you have the following:
 ## Application Architecture
 
 The following diagram provides a visual representation of the AWS services used in this tutorial and their interactions. This app leverages AWS Amplify, GraphQL API, AWS Lambda, and Amazon DynamoDB.
-
-<img width="422" alt="Serverless web build" src="https://github.com/user-attachments/assets/4eca10cd-e7c1-4446-8eea-18e8607f5ba3">
 
 ---
 
